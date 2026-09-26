@@ -1,2 +1,2 @@
-# MahekShaikh-SIH-2026
+# MahekShaikh-SAMAADHAN-AI2026
 
