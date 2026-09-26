@@ -19,7 +19,8 @@ Capability Matching – Universities, experts and industry partners are matched 
 Collaboration Gap Detection – Missing capabilities are identified.
 Partner Recommendation – The system recommends the type of partner required to fill the gap.
 Collaboration Formation – Relevant stakeholders are composed into a multidisciplinary team.
-Progress Tracking – The collaboration can be tracked from solution development toward future field deployment.
+Progress Tracking – The collaboration can be tracked from solution development toward future field deployment. 
+
 🖇️🧠 Key Features
 AI-assisted capability extraction
 Capability-based stakeholder matching
@@ -28,6 +29,7 @@ Partner recommendation
 Explainable matching
 Multidisciplinary collaboration composition
 Collaboration progress tracking
+
 🖇️🛠️ Technology Stack
 Frontend: Streamlit
 Programming: Python
@@ -35,10 +37,11 @@ AI Layer: Capability Extraction
 Matching: Similarity / Rule-based Algorithms
 Database: SQLite
 Visualization: Streamlit Charts
+
 🖇️🎯 Use Case
 The platform is designed to be problem-agnostic and can support challenges across domains such as:
 
-Agriculture
+🖇️🌾Agriculture
 Waste Management
 Water Management
 Education
